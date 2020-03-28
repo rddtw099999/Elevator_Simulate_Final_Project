@@ -1,0 +1,30 @@
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\HW1\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MinKai\Desktop\Verilog Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MinKai\Desktop\STM Project\VB Client\2.33\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
