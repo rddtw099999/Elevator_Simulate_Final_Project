@@ -42,3 +42,4 @@ STM32 Client:
     1     connect flag
 
  just check if both PC and Client are connected
+(![](https://i.imgur.com/JkGmBQd.png)
